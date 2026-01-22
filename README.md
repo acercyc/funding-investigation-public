@@ -81,9 +81,6 @@ Detailed guides with `Guide_` prefix:
 | `UH_internal/` | University of Helsinki internal funding, Flamma analysis |
 | `strategic_overview/` | Strategic analysis papers and roadmaps |
 
-### `researcher_info/` - Personal Information
-
-Contains the researcher profile and CV used to tailor all funding advice.
 
 ---
 
@@ -112,16 +109,5 @@ The project uses a portfolio approach across three geographic levels:
 | **European** | Horizon Europe, ERC, MSCA | Scale and consortium-based funding for international collaboration |
 | **Global** | Templeton, Tiny Blue Dot, FQXi, HFSP | Specialized philanthropy for "Big Questions" and foundational research |
 
----
-
-## AI Assistant Configuration
-
-The `.cursor/rules/` folder contains configuration for AI assistants:
-
-- `user_context.mdc` - Points to researcher profile for tailored advice
-- `scoring.mdc` - Defines the 0-5 relevance scoring system
-- `sourcing.mdc` - Guidelines for citing sources with URLs
-
----
 
 **Last Updated:** January 2026
