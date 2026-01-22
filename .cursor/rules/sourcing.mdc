@@ -1,0 +1,18 @@
+---
+description: Guidelines for citing web sources and providing URLs for transparency and easy access.
+globs: **/*.md
+---
+
+# Sourcing and Citation Guidelines
+
+To ensure transparency and allow for easy verification of information, follow these guidelines when including data from external web sources.
+
+## Guidelines
+
+- **Provide URLs:** When information is derived from a specific webpage, provide the direct URL as a link or in a "Sources" section.
+- **Easy Access:** Ensure the user can navigate to the source of the data easily.
+- **Not a Hard Rule:** This is a strong recommendation for transparency, but not a strict requirement for every single statement if the source is general knowledge.
+- **Format:** Use standard markdown link syntax: `[Title/Description](URL)`.
+
+## Implementation
+When summarizing search results or providing data on grant recipients, always aim to include the source links near the relevant information.

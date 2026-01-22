@@ -1,0 +1,16 @@
+---
+description: Guidance on accessing the researcher's profile and background information.
+globs: **/*.md
+---
+
+# Researcher Profile and Context
+
+To ensure that strategic advice and report updates are tailored to the researcher's unique background, expertise, and goals, always refer to the following file:
+
+- **Profile File:** `researcher_info/About Acer Chang.md`
+
+## Usage Guidelines
+
+- **Tailored Advice:** When providing strategic framing for grants (e.g., Kone, Erkko, Sigrid Jusélius), use the background in `researcher_info/About Acer Chang.md` to highlight relevant strengths like PhD supervision under Anil Seth, industry AI experience, and engineering background.
+- **Group-Building Strategy:** Refer to current career goals (establishing a research group in Finland) when recommending funding instruments.
+- **Affiliation:** Always account for the dual affiliation with the Department of Computer Science and the Helsinki Collegium for Advanced Studies (HCAS).

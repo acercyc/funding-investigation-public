@@ -1,0 +1,20 @@
+---
+description: Standards for the 0-5 grant relevance scoring system used in funding reports.
+globs: report/**/*.md, **/Funding_*.md
+---
+
+# Grant Relevance Scoring System
+
+All grant opportunities discussed in this project must include a **Relevance Score** from 0 to 5 to help prioritize research efforts.
+
+## Scoring Criteria
+
+- **5/5 (Perfect Match):** Explicitly mentions consciousness, "Big Questions," or high-risk interdisciplinary science (e.g., Kone, Templeton).
+- **4/5 (Strong Match):** Core focus on Neuroscience or AI with a clear path for consciousness research if framed correctly (e.g., Sigrid Jusélius, Research Council).
+- **3/5 (Moderate Match):** General science funding where you must "compete" with traditional fields; requires significant effort to align (e.g., SKR, Business Finland).
+- **2/5 (Peripheral Match):** Very niche or specific to unrelated sub-fields (e.g., purely clinical pediatrics or regional arts).
+- **1/5 (Low Match):** Requires a major pivot in research goals to be eligible.
+- **0/5 (No Match):** Strictly excluded by eligibility or field.
+
+## Implementation
+When adding new grants to tables or lists, include the score in a dedicated column or as a bolded prefix.
